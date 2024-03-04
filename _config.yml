@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Natália de Paula Moreira"
   pronouns         : # example: "she/her"  
-  bio              : "PhD, Political Science"
+  bio              : #"PhD, Political Science"
   location         : "Middletown, CT"
   employer         : "Wesleyan University"
   uri              : # URL
