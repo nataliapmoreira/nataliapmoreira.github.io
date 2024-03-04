@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "The Relationship between Ideology and COVID-19 Deaths: An Ecological Fallacy?"
+collection: research
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2022
+venue: 'Brazilian Political Science Review'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://www.scielo.br/j/bpsr/a/LZrBWxfkNRFYDGBhD8Mxp3C/)'
+citation: 'Barberia, L., Moreira, N.D.P., Carvalho, R.D.J., Oliveira, M.L.C., Rosa, I.S.C. and Zamudio, M., 2022. The relationship between ideology and COVID-19 deaths: What we know and what we still need to know. Brazilian Political Science Review, 16.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
