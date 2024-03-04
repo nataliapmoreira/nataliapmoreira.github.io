@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Evaluation of the effectiveness of surveillance policies to control the COVID-19 pandemic in São Paulo, Brazil"
+collection: research
+permalink: /publication/2022-08-17-global-health
+excerpt: ''
+date: 2022-08-17
+venue: 'Glob Health Research Policy'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://pubmed.ncbi.nlm.nih.gov/35974420/)'
+citation: 'Barberia LG, de P Moreira N, Kemp B, de Sousa Mascena Veras MA, Zamudio M, Rosa ISC, de J Carvalho R, Sousa TCM. Evaluation of the effectiveness of surveillance policies to control the COVID-19 pandemic in São Paulo, Brazil. Glob Health Res Policy. 2022 Aug 17;7(1):27. doi: 10.1186/s41256-022-00260-4. PMID: 35974420; PMCID: PMC9381395.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Surveillance efforts are essential to pandemic control, especially where the state is the primary health provider, such as Brazil. When public health testing guidelines limit molecular tests, there are reductions in detection efforts aimed at early recognition, isolation, and treatment of those infected with the virus. This study evaluates the effectiveness of surveillance policies to control the COVID-19 pandemic in São Paulo.
+
