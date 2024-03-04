@@ -12,7 +12,7 @@ title                    : "Natália's Homepage"
 title_separator          : "-"
 name                     : &name "Natália de Paula Moreira"
 description              : &description "personal description"
-url                      : nataliapmoreira.github.io
+url                      : https://nataliapmoreira.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nataliapmoreira/nataliapmoreira.github.io"
 
