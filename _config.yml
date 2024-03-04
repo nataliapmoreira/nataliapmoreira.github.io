@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Natália's Homepage"
+title                    : "Natália de Paula Moreira"
 title_separator          : "-"
 name                     : &name "Natália de Paula Moreira"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profilepicture.png"
   name             : "Natália de Paula Moreira"
   pronouns         : # example: "she/her"  
-  bio              : ""#"PhD, Political Science"
+  bio              : "Postdoctoral Research Fellow, Wesleyan Media Project and Hazel Quantitative Analysis Center at Wesleyan University. Public opinion, public policy, and quantitative methods."
   location         : "Middletown, CT"
   employer         : "Wesleyan University"
   uri              : # URL
