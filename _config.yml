@@ -21,7 +21,7 @@ repository               : "nataliapmoreira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepicture.png"
+  avatar           : "profilepicture.png"{: width="300px"}
   name             : "Natália de Paula Moreira"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow, Wesleyan Media Project and Hazel Quantitative Analysis Center at Wesleyan University. Public opinion, public policy, and quantitative methods."
