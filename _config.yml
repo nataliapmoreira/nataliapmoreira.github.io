@@ -21,10 +21,10 @@ repository               : "nataliapmoreira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepicture.png"
   name             : "Natália de Paula Moreira"
   pronouns         : # example: "she/her"  
-  bio              : #"PhD, Political Science"
+  bio              : ""#"PhD, Political Science"
   location         : "Middletown, CT"
   employer         : "Wesleyan University"
   uri              : # URL
